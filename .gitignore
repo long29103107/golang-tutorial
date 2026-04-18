@@ -1,0 +1,39 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, profiling, etc.
+*.out
+coverage.*
+*.coverprofile
+profile.cov
+
+# Vendored dependencies (delete this line if you commit `vendor/`)
+vendor/
+
+# Go workspace (local multi-module setups)
+go.work
+go.work.sum
+
+# Build / release output
+/bin/
+/dist/
+/build/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
