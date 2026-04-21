@@ -5,7 +5,7 @@ Repo for tracking progress while learning Go from a YouTube playlist.
 ## Resources
 
 - [Go playlist (YouTube)](https://www.youtube.com/playlist?list=PLTasIXUHepx0tYvXfFsbEl69VbMCZDH1i)
-- [Golang Cơ Bản #08: Tìm Hiểu Package fmt – In, Định Dạng, Nhập/Xuất Dữ Liệu | Học Lập Trình Go Từ A-Z](https://youtu.be/9veuXwZZbRQ?si=xhKmWRmxmJWIwMzl)
+- [Golang Cơ Bản #08: Tìm Hiểu Package fmt – In, Định Dạng, Nhập/Xuất Dữ Liệu | Học Lập Trình Go Từ A-Z](https://www.youtube.com/watch?v=9veuXwZZbRQ&list=PLTasIXUHepx0tYvXfFsbEl69VbMCZDH1i&index=9)
 
 
 ## Progress
